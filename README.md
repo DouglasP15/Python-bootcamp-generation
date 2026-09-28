@@ -11,7 +11,7 @@ Este repositório reúne os exercícios, notebooks e desafios práticos desenvol
 ## 🛠️ Tecnologias Utilizadas
 - **Linguagem:** Python 3.x
 - **Ambiente:** Jupyter Notebook / VS Code
-- **Bibliotecas:** Pandas, NumPy (se aplicável)
+- **Bibliotecas:** Pandas, NumPy
 
 ## 📂 Estrutura do Repositório
 - `01_fundamentos_e_logica/`: Exercícios de sintaxe e lógica.
